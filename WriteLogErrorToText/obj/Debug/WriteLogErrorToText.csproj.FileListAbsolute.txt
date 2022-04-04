@@ -1,0 +1,9 @@
+C:\Users\parkp\Downloads\Git\WriteLogErrorToText\WriteLogErrorToText\obj\Debug\WriteLogErrorToText.csproj.AssemblyReference.cache
+C:\Users\parkp\Downloads\Git\WriteLogErrorToText\WriteLogErrorToText\obj\Debug\WriteLogErrorToText.Properties.Resources.resources
+C:\Users\parkp\Downloads\Git\WriteLogErrorToText\WriteLogErrorToText\obj\Debug\WriteLogErrorToText.csproj.GenerateResource.cache
+C:\Users\parkp\Downloads\Git\WriteLogErrorToText\WriteLogErrorToText\obj\Debug\WriteLogErrorToText.csproj.CoreCompileInputs.cache
+C:\Users\parkp\Downloads\Git\WriteLogErrorToText\WriteLogErrorToText\bin\Debug\WriteLogErrorToText.dll.config
+C:\Users\parkp\Downloads\Git\WriteLogErrorToText\WriteLogErrorToText\bin\Debug\WriteLogErrorToText.dll
+C:\Users\parkp\Downloads\Git\WriteLogErrorToText\WriteLogErrorToText\bin\Debug\WriteLogErrorToText.pdb
+C:\Users\parkp\Downloads\Git\WriteLogErrorToText\WriteLogErrorToText\obj\Debug\WriteLogErrorToText.dll
+C:\Users\parkp\Downloads\Git\WriteLogErrorToText\WriteLogErrorToText\obj\Debug\WriteLogErrorToText.pdb
